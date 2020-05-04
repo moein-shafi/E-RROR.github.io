@@ -1,11 +1,11 @@
 {
-    "title": "Resume",
+    "title": "Sina farhadi portfolio",
     "name": "startbootstrap-resume",
     "version": "5.0.8",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
+    "description": "Sina farhadi portfolio built with bootstrap 4",
     "keywords": [
         "css",
         "sass",
